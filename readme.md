@@ -1,4 +1,4 @@
-# MongoDB and Mongo Express whithin Docker
+# MongoDB and Mongo Express within Docker
 
 ### Command
     docker-compose up -d
